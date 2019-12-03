@@ -1,0 +1,120 @@
+
+
+
+.txt{
+	height: 35px;
+	width: 250px;
+	border: none;
+	border-radius: 5px;
+	background-color: #EEE;
+	padding: 4px;
+}
+
+.txt:hover{
+	background-color: #CCC;
+}
+#cad_table0{
+	height: 450px;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-top: 10px;
+}
+
+#cad_table{
+	height: 450px;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-top: 10px;
+}
+
+#cad_tablef{
+	height: 540px;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-top: 10px;
+}
+
+#cad_table2{
+	height: 500px;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-top: 10px;
+}
+
+#cad3{
+	height: 500px;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-top: 10px;
+}
+
+#btnCad{
+	width: 100px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 40px;
+	border: 1px solid #CCC;
+}
+
+#btnCad:hover{
+	background-color: #CCC;
+}
+
+.adm{
+	width: 100px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 40px;
+	border: 1px solid #CCC;
+}
+
+.adm:hover{
+	background-color: #CCC;
+}
+
+
+#cad4{
+	height: 500px;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-top: 10px;
+}
+
+.txt1{
+	height: 35px;
+	width: 250px;
+	border: none;
+	border-radius: 5px;
+	background-color: #EEE;
+	padding: 4px;
+}
+
+.txt1:hover{
+	background-color: #CCC;
+}
+
+#duc{
+	height: 250px;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-top: -10px;
+}
+
+#btnalt{
+	width: 140px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 40px;
+	border: 1px solid #CCC;
+}
+
+#btnalt:hover{
+	background-color: #CCC;
+}
