@@ -10,7 +10,7 @@ abstract class Conexao {
     public static function getInstance() {
         try {
             if (!isset(self::$instance)) {
-                self::$instance = new PDO("mysql:host=localhost;dbname=smca;charset=utf8", "root", "0000");                
+                self::$instance = new PDO("mysql:host=localhost;dbname=smca;charset=utf8", "root", "senha");                
                 self::$instance->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
                         
             }
